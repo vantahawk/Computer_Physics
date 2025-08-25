@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1532361412 source:c:\users\david\documents\studium\comp-phys\programme\uebung6c\main.c
+	<stdio.h>
+	<math.h>
+

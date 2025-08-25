@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1532820138 source:c:\users\david\documents\studium\comp-phys\programme\uebung11-sidetest\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"nrutil.c"
+	"lubksb.c"
+
+1532374306 c:\users\david\documents\studium\comp-phys\programme\uebung11-sidetest\nrutil.c
+	<stdio.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+

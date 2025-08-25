@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1532302472 source:c:\users\david\documents\studium\comp-phys\programme\felder-test\main.c
+	<stdio.h>
+	<stdlib.h>
+

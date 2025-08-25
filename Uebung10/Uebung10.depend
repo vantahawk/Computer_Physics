@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1532646084 source:c:\users\david\documents\studium\comp-phys\programme\uebung10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"nrutil.c"
+	"lubksb.c"
+
+1532374305 c:\users\david\documents\studium\comp-phys\programme\uebung10\nrutil.c
+	<stdio.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+
+1532374305 c:\users\david\documents\studium\comp-phys\programme\uebung10\lubksb.c
+

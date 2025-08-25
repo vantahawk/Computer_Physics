@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1532394666 source:c:\users\david\documents\studium\comp-phys\programme\uebung7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"nrutil.c"
+	"ludcmp.c"
+	"lubksb.c"
+
+1532374305 c:\users\david\documents\studium\comp-phys\programme\uebung7\nrutil.c
+	<stdio.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+
+1532374305 c:\users\david\documents\studium\comp-phys\programme\uebung7\ludcmp.c
+	<math.h>
+	"nrutil.h"
+
+1532374305 c:\users\david\documents\studium\comp-phys\programme\uebung7\nrutil.h
+
+1532374305 c:\users\david\documents\studium\comp-phys\programme\uebung7\lubksb.c
+

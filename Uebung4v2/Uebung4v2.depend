@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1542866264 source:c:\users\david\documents\studium\comp-phys\programme\uebung4v2\main.c
+	<stdio.h>
+	<math.h>
+
+1532269516 source:c:\users\david\documents\studium\comp-phys\programme\intervallschachtelung-modul.c
+	<stdio.h>
+	<math.h>
+
